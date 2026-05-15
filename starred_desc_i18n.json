@@ -1,0 +1,778 @@
+{
+  "ruvnet/RuView": {
+    "zh": "π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。",
+    "en": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+  },
+  "MaliosDark/wifi-3d-fusion": {
+    "zh": "WiFi-3D-Fusion 是一个开源研究项目，利用 WiFi CSI 信号和深度学习来估计 3D 人体姿势，将无线传感与计算机视觉技术融合以实现下一代空间感知。",
+    "en": "WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for next-generation spatial awareness."
+  },
+  "YGYOOO/WorldX": {
+    "zh": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界.",
+    "en": "One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own."
+  },
+  "ML-GSAI/FlexWorld": {
+    "zh": "“FlexWorld：逐步扩展 3D 场景以实现灵活视图合成”的官方 PyTorch 实现。",
+    "en": "Official PyTorch implementation for \"FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis\"."
+  },
+  "cedarconnor/SPAG4d": {
+    "zh": "将 360° 等距柱状全景图转换为可视的 3D 高斯 Splat 文件。",
+    "en": "Convert 360° equirectangular panoramas into viewable 3D Gaussian Splat files."
+  },
+  "antimatter15/splaTV": {
+    "zh": "视频碎片",
+    "en": "video splat"
+  },
+  "oppo-us-research/SpacetimeGaussians": {
+    "zh": "[CVPR 2024] 用于实时动态视图合成的时空高斯特征分布",
+    "en": "[CVPR 2024] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis"
+  },
+  "AndriiShramko/Apple-Sharp-3dgs-generator": {
+    "zh": "使用 Apple 的 SHARP 模型将图像转换为 3D 高斯分布的专业桌面应用程序",
+    "en": "Professional Desktop Application for Converting Images to 3D Gaussian Splatting using Apple's SHARP Model"
+  },
+  "AndriiShramko/4DGS-Video-Generator": {
+    "zh": "使用 Apple 的 SHARP 模型将视频帧转换为 4D 高斯泼溅序列的专业桌面应用程序",
+    "en": "Professional Desktop Application for Converting Video Frames to 4D Gaussian Splatting Sequences using Apple's SHARP Model"
+  },
+  "kangpeilun/VastGaussian": {
+    "zh": "这是一个非官方的实现",
+    "en": "This is an unofficial Implementation"
+  },
+  "NanmiCoder/cc-haha": {
+    "zh": "Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）",
+    "en": "Claude Code leaks source code - local runnable version, new cross-platform desktop software to complement Computer Use (with core module analysis)"
+  },
+  "quan-meng/seen2scene": {
+    "zh": "Seen2Scene 采用不完整的现实世界 3D 扫描，并使用可见性引导的流匹配生成完整、连贯的 3D 场景 - 直接在现实世界数据上进行训练。",
+    "en": "Seen2Scene takes an incomplete real-world 3D scan and generates a complete, coherent 3D scene using visibility-guided flow matching — trained directly on real-world data."
+  },
+  "playcanvas/earthatile": {
+    "zh": "3D Tiles 地理空间数据集的与引擎无关的运行时",
+    "en": "Engine-agnostic runtime for 3D Tiles geospatial datasets"
+  },
+  "NewYoungCode/EzUI": {
+    "zh": "win32桌面GUI框架",
+    "en": "win32 desktop GUI framework"
+  },
+  "siddharthvaddem/openscreen": {
+    "zh": "免费创建令人惊叹的演示。开源、无订阅、无水印、免费用于商业用途。 Screen Studio 的替代品。",
+    "en": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+  },
+  "MrNeRF/LichtFeld-Studio": {
+    "zh": "从单个本机应用程序训练、检查、编辑、自动化和导出 3D 高斯泼溅场景。",
+    "en": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application."
+  },
+  "MISSLOOL/ue5_to_easyhtml5": {
+    "zh": "ue5开源插件简单转换html_webgl网页",
+    "en": "ue5 open source plug-in simply converts html_webgl web pages"
+  },
+  "historia-Inc/WindowTransparency": {
+    "zh": "UE5 插件，用于在 Windows (DX11) 上创建透明窗口背景，并具有动态点击功能。",
+    "en": "UE5 plugin for creating transparent window backgrounds on Windows (DX11), with dynamic click-through."
+  },
+  "qiuzhi2046/Qclaw": {
+    "zh": "不用命令行，小白也能轻松玩转 OpenClaw",
+    "en": "Novices can easily play OpenClaw without a command line"
+  },
+  "charliedream1/ai_quant_trade": {
+    "zh": "股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易",
+    "en": "Stock AI Trader: From learning, simulation to real trading, a one-stop platform. It includes stock knowledge, strategy examples, large models, factor mining, traditional strategies, machine learning, deep learning, reinforcement learning, graph networks, high-frequency trading, C++ deployment and Jukuan example code, etc., which can facilitate learning, simulation and real trading."
+  },
+  "mementum/backtrader": {
+    "zh": "用于交易策略的 Python 回测库",
+    "en": "Python Backtesting library for trading strategies"
+  },
+  "NeoGeographyToolkit/StereoPipeline": {
+    "zh": "NASA 艾姆斯立体管道是一套自动化大地测量和立体测量工具，旨在处理从其他行星上的轨道和着陆机器人探测器捕获的行星图像。",
+    "en": "The NASA Ames Stereo Pipeline is a suite of automated geodesy & stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets."
+  },
+  "cre185/InstantSfM": {
+    "zh": "论文《InstantSfM: Towards GPU-Native SfM for the Deep Learning Era》官方代码",
+    "en": "Official code for paper \"InstantSfM: Towards GPU-Native SfM for the Deep Learning Era\""
+  },
+  "Mistral-Yu/360Cam-PGM-3DGS-Tools": {
+    "zh": "用于将 360° 视频捕获转换为摄影测量 (PGM) 数据集或 3D 高斯溅射 (3DGS) 数据集的工具包。",
+    "en": "A toolkit for turning 360° video captures into photogrammetry (PGM) datasets or 3D Gaussian Splatting (3DGS) datasets."
+  },
+  "stechdrive/Insta360Convert-GUI": {
+    "zh": "GUI 工具可从 360° 等距柱状视频中提取多个透视图（俯仰、偏航、FOV）作为 MP4 剪辑或图像序列，以及 COLMAP/RealityScan 就绪装备输出，以简化摄影测量和 3D 高斯溅射工作流程。",
+    "en": "GUI tool to extract multiple perspective views (pitch, yaw, FOV) from 360° equirectangular videos as MP4 clips or image sequences, plus COLMAP/RealityScan‑ready rig outputs for streamlined photogrammetry and 3D Gaussian Splatting workflows."
+  },
+  "glitternetwork/pinme": {
+    "zh": "用单个命令部署您的前端。支持克劳德代码技能。",
+    "en": "Deploy Your Frontend in a Single Command. Claude Code Skills supported."
+  },
+  "apple/ml-sharp": {
+    "zh": "不到一秒即可实现清晰的单目视图合成",
+    "en": "Sharp Monocular View Synthesis in Less Than a Second"
+  },
+  "MooreThreads/LiteGS": {
+    "zh": "高斯泼溅的重构代码库。 50 秒内训练 3DGS！",
+    "en": "A refactored codebase for Gaussian Splatting. Training 3DGS in 50 seconds!"
+  },
+  "louislam/uptime-kuma": {
+    "zh": "一个精美的自托管监控工具",
+    "en": "A fancy self-hosted monitoring tool"
+  },
+  "EnVision-Research/DA-2": {
+    "zh": "正式实施“DA²：深度任意方向”",
+    "en": "Official implementation of \"DA²: Depth Anything in Any Direction\""
+  },
+  "langflow-ai/langflow": {
+    "zh": "Langflow 是一个强大的工具，用于构建和部署人工智能驱动的代理和工作流程。",
+    "en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+  },
+  "landing-ai/vision-agent-tools": {
+    "zh": "该工具已被弃用。请改用代理文档提取。",
+    "en": "This tool has been deprecated. Use Agentic Document Extraction instead."
+  },
+  "Lewis-Stuart-11/3DGS-to-PC": {
+    "zh": "3DGS 到 PC：3D 高斯溅射到密集点云 [3D-VAST：ICCVW 2025]",
+    "en": "3DGS-to-PC: 3D Gaussian Splatting to Dense Point Clouds [3D-VAST: ICCVW 2025]"
+  },
+  "nv-tlabs/Difix3D": {
+    "zh": "【CVPR 2025 Oral & 最佳论文入围】Difix3D+：利用单步扩散模型改进 3D 重建",
+    "en": "[CVPR 2025 Oral & Best Paper Finalist] Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models"
+  },
+  "roboflow/supervision": {
+    "zh": "我们为您编写可重复使用的计算机视觉工具。 💜",
+    "en": "We write your reusable computer vision tools. 💜"
+  },
+  "The-Pocket/PocketFlow": {
+    "zh": "Pocket Flow：100行LLM框架。让特工打造特工！",
+    "en": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!"
+  },
+  "onlook-dev/onlook": {
+    "zh": "设计师的 Cursor • 开源 AI 优先设计工具 • 使用 AI 直观地构建、设计和编辑您的 React 应用程序",
+    "en": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI"
+  },
+  "karminski/one-small-step": {
+    "zh": "这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。",
+    "en": "This is a simple technology popularization tutorial project that mainly focuses on explaining some interesting and cutting-edge technology concepts and principles. Each article aims to be read within 5 minutes."
+  },
+  "x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "zh": "完整增强代码、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia 和 v0。 （和其他开源）系统提示、内部工具和人工智能模型",
+    "en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+  },
+  "bytedance/deer-flow": {
+    "zh": "一个开源的长期 SuperAgent 工具，用于研究、编码和创建。借助沙箱、内存、工具、技能、子代理和消息网关，它可以处理可能需要几分钟到几小时的不同级别的任务。",
+    "en": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+  },
+  "okdalto/VisualizeMNIST": {
+    "zh": "该项目是从用户输入中识别数字的网络的实时可视化。",
+    "en": "This project is real-time visualization of a network recognizing digits from user's input."
+  },
+  "facebookresearch/vggt": {
+    "zh": "【CVPR 2025 最佳论文奖】VGGT：视觉几何接地变压器",
+    "en": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer"
+  },
+  "chao325/MaoTai_GUIT": {
+    "zh": "天猫 TaoBao i茅台  iMatoTai JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境。开发在即（开源协议采用 Apache License）",
+    "en": "Tmall TaoBao iMatoTai JD JD.com and JD.com Moutai are Windows-based and can be used out of the box without configuring the environment. Development is imminent (open source agreement adopts Apache License)"
+  },
+  "prs-eth/Marigold": {
+    "zh": "[CVPR 2024 - Oral，最佳论文奖候选] Marigold：重新利用基于扩散的图像生成器进行单目深度估计",
+    "en": "[CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation"
+  },
+  "baaivision/See3D": {
+    "zh": "【CVPR'25亮点】你看到了，你明白了：在无姿势视频上大规模学习 3D 创作",
+    "en": "[CVPR'25 Highlight] You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale"
+  },
+  "Linketic/CityGaussian": {
+    "zh": "[ECCV`24&ICLR`25] CityGaussian 系列，用于高斯高质量大规模场景重建",
+    "en": "[ECCV`24&ICLR`25] CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians"
+  },
+  "sunset1995/py360convert": {
+    "zh": "Python实现等距柱状图、立方体贴图和透视图之间的转换。 （equirect2cube、cube2equirect、equirect2perspec）",
+    "en": "Python implementation of convertion between equirectangular, cubemap and perspective. (equirect2cube, cube2equirect, equirect2perspec)"
+  },
+  "sunset1995/PanoPlane360": {
+    "zh": "通过分而治之的室内全景平面 3D 重建",
+    "en": "Indoor Panorama Planar 3D Reconstruction via Divide and Conquer"
+  },
+  "LZleejean/TexIR_code": {
+    "zh": "CVPR 2023 接受论文的官方代码“大规模真实世界室内场景的多视图逆渲染”",
+    "en": "Official code for the paper accepted to CVPR 2023, 'Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes'"
+  },
+  "YvanYin/Metric3D": {
+    "zh": "“Metric3D：从单个图像进行零样本度量 3D 预测”和“Metric3Dv2：多功能单目几何基础模型......”的存储库",
+    "en": "The repo for \"Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image\" and \"Metric3Dv2: A Versatile Monocular Geometric Foundation Model...\""
+  },
+  "levihsu/OOTDiffusion": {
+    "zh": "【AAAI 2025】《OOTDiffusion：基于舾装融合的潜在扩散用于可控虚拟试穿》正式实施",
+    "en": "[AAAI 2025] Official implementation of \"OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on\""
+  },
+  "zemogoravla/simsatool": {
+    "zh": "图像-RPC 生成器",
+    "en": "Image-RPC generator"
+  },
+  "prs-eth/ResDepth": {
+    "zh": "[ISPRS 摄影测量与遥感杂志，2022] ResDepth：高分辨率卫星图像 3D 重建的深度残差先验",
+    "en": "[ISPRS Journal of Photogrammetry and Remote Sensing, 2022] ResDepth: A Deep Residual Prior For 3D Reconstruction From High-resolution Satellite Images"
+  },
+  "mpetroff/pannellum": {
+    "zh": "Pannellum 是一个轻量级、免费、开源的网络全景查看器。",
+    "en": "Pannellum is a lightweight, free, and open source panorama viewer for the web."
+  },
+  "GDAOSU/LOD2BuildingModel": {
+    "zh": "SAT2LoD2：根据卫星衍生的 DSM 和 Orthophoto 自动重建 LoD-2 模型",
+    "en": "SAT2LoD2: Automated LoD-2 Model Reconstruction from Satellite-derived DSM and Orthophoto"
+  },
+  "graphdeco-inria/gaussian-splatting": {
+    "zh": "“3D Gaussian Splatting for Real-Time Radiance Field Rendering”的原始参考实现",
+    "en": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\""
+  },
+  "mapillary/mapillary-js": {
+    "zh": "由 WebGL 提供支持的浏览器中交互式、可扩展的街道图像地图体验",
+    "en": "Interactive, extendable street imagery map experiences in the browser, powered by WebGL"
+  },
+  "mamoniem/UnrealEditorPythonScripts": {
+    "zh": "我制作的一些个人脚本用于我自己的项目，但可以免费用于任何项目和任何目的，只要不违反许可证文件或虚幻引擎 EULA。",
+    "en": "Some of my personal scripts i made to use for my own projects, but free of charge to be used for any project and any purpose as long as it is not violating the LICENSE file or the Unreal Engine EULA."
+  },
+  "inveta/demo": {
+    "zh": "UE5 三维可视化 示例工程",
+    "en": "UE5 3D visualization sample project"
+  },
+  "bublint/ue5-llama-lora": {
+    "zh": "一个概念验证项目，展示了使用小型、本地可培训的法学硕士创建下一代文档工具的潜力。",
+    "en": "A proof-of-concept project that showcases the potential for using small, locally trainable LLMs to create next-generation documentation tools."
+  },
+  "openai/chatgpt-retrieval-plugin": {
+    "zh": "ChatGPT 检索插件可让您通过以自然语言提问来轻松查找个人或工作文档。",
+    "en": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language."
+  },
+  "QuivrHQ/quivr": {
+    "zh": "支持将 GenAI 集成到您的应用程序中的 RAG 🧠 专注于您的产品而不是 RAG。通过定制轻松集成到现有产品中！  任何法学硕士：GPT4、Groq、Llama。任何 Vectorstore：PGVector、Faiss。任何文件。无论如何你想要的。",
+    "en": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want."
+  },
+  "devdad/SimplexNoise": {
+    "zh": "* 这是一个干净、快速、现代且免费的 Perlin Simplex 噪声函数。所有公共函数都是 BlueprintCallable，因此它们可以在每个蓝图中使用。来自 DevDad，献给您和虚幻社区 免费使用它来实现您想要的任何目的 我只要求您以您认为最合适的方式在您的游戏制作人员名单中提及我。",
+    "en": "* This is a clean, fast, modern and free Perlin Simplex noise function.All Public Functions are BlueprintCallable so they can be used in every blueprint. From DevDad and Dedicated to you and Unreal Community Use it free for what ever you want I only request that you mention me in the credits for your game in the way that feels most appropriate to you."
+  },
+  "strangergwenn/UnrealUpdater": {
+    "zh": "GAMEDEV / 游戏启动器、虚幻引擎 4 游戏更新程序",
+    "en": "GAMEDEV / Game launcher, updater for Unreal Engine 4 games"
+  },
+  "Russell-Newton/UE5-Marching-Cubes": {
+    "zh": "使用 RDG 在 UE5 中移动立方体",
+    "en": "Marching Cubes in UE5 using the RDG"
+  },
+  "KellanM/OpenAI-Api-Unreal": {
+    "zh": "在虚幻引擎中集成 OpenAI Api",
+    "en": "Integration for the OpenAI Api in Unreal Engine"
+  },
+  "ChatGPTNextWeb/NextChat": {
+    "zh": "✨ 轻快的AI助手。支持：网络 | iOS | macOS |安卓 |  Linux |视窗",
+    "en": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows"
+  },
+  "ztjhz/BetterChatGPT": {
+    "zh": "OpenAI ChatGPT 的令人惊叹的 UI（网站 + Windows + MacOS + Linux）",
+    "en": "An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)"
+  },
+  "0x779/compakt": {
+    "zh": "虚幻引擎 4 的简单资源打包插件",
+    "en": "Simple asset packing plugin for Unreal Engine 4"
+  },
+  "0x779/ue4-bp-utils": {
+    "zh": "虚幻引擎 4 的蓝图实用程序",
+    "en": "Blueprint utilities for Unreal Engine 4"
+  },
+  "albertotrunk/UE5-Dream": {
+    "zh": "UE5Dream - 本地版本",
+    "en": "UE5Dream - Local version"
+  },
+  "guaguaguaxia/weekly_report": {
+    "zh": "简单描述工作内容，帮你生成完整周报",
+    "en": "Briefly describe the work content and help you generate a complete weekly report"
+  },
+  "sp0lsh/UE4ShaderPluginDemo": {
+    "zh": "一个教程项目，展示如何在 UE4 中实现 HLSL 像素和计算着色器",
+    "en": "A tutorial project that shows how to implement HLSL Pixel and Compute shaders in UE4"
+  },
+  "DreamLife-Jianwei/Qt-Vtk": {
+    "zh": "Qt&Vtk 学习实例,移植了大部分官方的实例代码到Qt中。自己写了一个4视图的小程序，停更",
+    "en": "Qt&Vtk learning examples, transplanting most of the official example codes into Qt. I wrote a small program with 4 views. I will stop updating."
+  },
+  "GTRONICK/QSS": {
+    "zh": "QT 样式表模板",
+    "en": "QT Style Sheets templates"
+  },
+  "jhonconal/QUI-Creator": {
+    "zh": "QUI Creator，一个QSS皮肤文件生成器，适用于所有Qt版本",
+    "en": "QUI Creator, a QSS skin file generator, suitable for all Qt versions"
+  },
+  "ThomasKroes/exposure-render": {
+    "zh": "自动从 code.google.com/p/exposure-render 导出",
+    "en": "Automatically exported from code.google.com/p/exposure-render"
+  },
+  "GavriloviciEduard/Asclepios-DICOM-Viewer": {
+    "zh": "学士论文项目。用 C++、QT 和 VTK 编写的 DICOM 查看器。",
+    "en": "Bachelor thesis project. A DICOM Viewer written in C++, QT and VTK."
+  },
+  "spite/FaceMeshFaceGeometry": {
+    "zh": "FaceMesh 的 FaceMeshFaceGeometry",
+    "en": "FaceMeshFaceGeometry for FaceMesh"
+  },
+  "RockJesus/Alienware-Hackintosh-Apple-MacOS": {
+    "zh": "👽 Alienware 所有型号 MACOS 🍎 Hackintosh EFI/COLVER/OPENCORE 系列 LTS 🖥 -- rockjesus.cn",
+    "en": "👽 Alienware All models MACOS 🍎 Hackintosh EFI/COLVER/OPENCORE collection LTS 🖥 -- rockjesus.cn"
+  },
+  "jobbole/awesome-python-cn": {
+    "zh": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
+    "en": "The Chinese version of Python resources, including: web frameworks, web crawlers, template engines, databases, data visualization, image processing, etc., is maintained and updated by the \"Open Source Outpost\" and \"Python Developer\" WeChat official account teams."
+  },
+  "RVillani/UE4Duino": {
+    "zh": "用于 Windows 上 COM 通信的虚幻引擎 4 插件",
+    "en": "Unreal Engine 4 plugin for COM communication on Windows"
+  },
+  "dyh/win10_yolov5_deepsort_counting": {
+    "zh": "在 win10 运行 yolov5 deepsort 行人 车辆 跟踪 检测 计数",
+    "en": "Running yolov5 deepsort on win10 pedestrian vehicle tracking detection counting"
+  },
+  "DescendentStudios/PingPlugin": {
+    "zh": "用于虚幻引擎 4 (UE4) 的 ICMP ping 主机并从 Blueprint 获取结果的插件",
+    "en": "Plugin for Unreal Engine 4 (UE4) to ICMP ping hosts and obtain results from Blueprint"
+  },
+  "microsoft/vcpkg": {
+    "zh": "适用于 Windows、Linux 和 MacOS 的 C++ 库管理器",
+    "en": "C++ Library Manager for Windows, Linux, and MacOS"
+  },
+  "AcademySoftwareFoundation/openvdb": {
+    "zh": "OpenVDB - 稀疏体数据结构和工具",
+    "en": "OpenVDB - Sparse volume data structure and tools"
+  },
+  "eidosmontreal/unreal-vdb": {
+    "zh": "这个repo是一个非官方的Unreal插件，可以读取Unreal中的OpenVDB和NanoVDB文件。",
+    "en": "This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal."
+  },
+  "python-eel/Eel": {
+    "zh": "一个小型 Python 库，用于制作简单的类似 Electron 的 HTML/JS GUI 应用程序",
+    "en": "A little Python library for making simple Electron-like HTML/JS GUI apps"
+  },
+  "RaiaN/ComputeShaderGraph": {
+    "zh": "-",
+    "en": "-"
+  },
+  "ataraxym/EarCutting_UE4": {
+    "zh": "程序网格的耳朵切割算法在虚幻引擎4中的实现",
+    "en": "Implementation of Ear Cutting algorithm for Procedural Mesh in Unreal Engine 4"
+  },
+  "crssnky/GeoTIFF_Importer_UE4": {
+    "zh": "插件：UE4 的 GeoTIFF Landscape",
+    "en": "Plugin:GeoTIFF Landscape for UE4"
+  },
+  "xxxzhou/oeip": {
+    "zh": "ue4 unity3d ffmpeg cuda dx11",
+    "en": "ue4 unity3d ffmpeg cuda dx11"
+  },
+  "andyrst/ue4_metaballs": {
+    "zh": "虚幻引擎 4 的元球效果",
+    "en": "Metaballs fx for Unreal Engine 4"
+  },
+  "srmocher/of-vtk-Isosurfaces": {
+    "zh": "使用 Marching Cubes 算法可视化等值面的 openFrameworks 解决方案",
+    "en": "openFrameworks solution to visualize isosurfaces using Marching Cubes algorithm"
+  },
+  "timdecode/UnrealGPUSwarm": {
+    "zh": "虚幻计算着色器 boid 模拟。",
+    "en": "Unreal compute shader boid simulation."
+  },
+  "HSeo/ComputeShaderUE419Test": {
+    "zh": "在虚幻引擎4.19中使用ComputeShader的超级简单示例代码",
+    "en": "Super simple sample code for using ComputeShader in Unreal Engine 4.19"
+  },
+  "HSeo/SimpleMenuBarBuilder": {
+    "zh": "FMenuBarBuilder 通过 UNativeWidgetHost 无法正确呈现菜单。",
+    "en": "FMenuBarBuilder through UNativeWidgetHost renders menu incorrectly."
+  },
+  "UE4-OceanProject/ComputeShaderDev": {
+    "zh": "概念验证计算着色器，无需在纹理中使用数据打包进行输入/输出",
+    "en": "Proof of concept Compute Shader without using data packing in textures for input/output"
+  },
+  "Temaran/UnrealEngineShaderPluginDemo": {
+    "zh": "一个教程项目，展示如何在 UE4 中实现 HLSL 像素和计算着色器",
+    "en": "A tutorial project that shows how to implement HLSL Pixel and Compute shaders in UE4"
+  },
+  "blueroseslol/BRPlugins": {
+    "zh": "一个简单的虚幻引擎4插件。",
+    "en": "a simple unreal engine 4 plugins."
+  },
+  "aparis69/MarchingCubeCpp": {
+    "zh": "一个公共领域/MIT 头文件的 C++ 行进立方体实现，没有任何花哨的东西。",
+    "en": "A public domain/MIT header-only marching cube implementation in C++ without anything fancy."
+  },
+  "cran/rmarchingcubes": {
+    "zh": ":感叹：这是 CRAN R 软件包存储库的只读镜像。  rmarchingcubes — 使用移动立方体算法计算 3D 轮廓网格。 主页：https://github.com/shwilks/rmarchingcubes 报告此软件包的错误：https://github.com/shwilks/rmarchingcubes/issues",
+    "en": ":exclamation: This is a read-only mirror of the CRAN R package repository.  rmarchingcubes — Calculate 3D Contour Meshes Using the Marching Cubes Algorithm. Homepage: https://github.com/shwilks/rmarchingcubes  Report bugs for this package: https://github.com/shwilks/rmarchingcubes/issues"
+  },
+  "Canadadry/threejs-one-marching-cube": {
+    "zh": "用 Threejs 只绘制一个行进立方体",
+    "en": "Draw only one marching cube with threejs"
+  },
+  "lockre35/Volume-Rendering": {
+    "zh": "使用 Three.js 和 Marching Cube 算法进行 3D 医学图像的体积渲染。",
+    "en": "Volume rendering for 3D medical images using Three.js and the marching cube algorithm."
+  },
+  "ForestCSharp/UE4-Voxel-Geometry": {
+    "zh": "作为虚幻引擎 4 插件的行进立方体的并行 CPU 实现，以及基于双轮廓的辅助实现",
+    "en": "Parallel CPU implementation of marching cubes as an Unreal Engine 4 plugin, with a secondary implementation based on dual contouring"
+  },
+  "FAST-Imaging/FAST": {
+    "zh": "高性能医学图像处理、神经网络推理和可视化框架",
+    "en": "A framework for high-performance medical image processing, neural network inference and visualization"
+  },
+  "K3D-tools/K3D-jupyter": {
+    "zh": "K3D 允许您使用高级 API（曲面、等值面、体素、网格、云点、vtk 对象、体积渲染器、颜色图等）创建由 WebGL 支持的 3D 绘图。 K3D-jupyter 的主要目标是像 matplotlib 一样易于作为独立包使用，而且还允许与 VTK 等现有库进行互操作。",
+    "en": "K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK."
+  },
+  "Alegruz/SphFishingGame": {
+    "zh": "在虚幻引擎 4 上开发的钓鱼游戏。SPH 由 CUDA 计算，由 Marching 立方体可视化。",
+    "en": "Fishing game developed on Unreal Engine 4. SPH computed by CUDA, visualized by Marching cubes."
+  },
+  "eidelen/DicomToMesh": {
+    "zh": "用于将 DICOM 体积转换为 3D 表面网格（obj、stl 或 ply）的命令行工具。可以启用多种网格处理例程，例如网格缩小、平滑或清洁。适用于 Linux、OSX 和 Windows。",
+    "en": "A command line tool to transform a DICOM volume into a 3d surface mesh (obj, stl or ply). Several mesh processing routines can be enabled, such as mesh reduction, smoothing or cleaning. Works on Linux, OSX and Windows."
+  },
+  "alicevision/AliceVision": {
+    "zh": "3D计算机视觉框架",
+    "en": "3D Computer Vision Framework"
+  },
+  "mlavik1/UnityVolumeRendering": {
+    "zh": "体积渲染，在 Unity3D 中实现。  想支持该项目吗？向救助儿童会（https://www.savethechildren.net/）或其他慈善机构捐赠一小笔钱，并给我留言，我将受到极大的激励！",
+    "en": "Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will be greatly motivated!"
+  },
+  "rordenlab/MRIcroGL": {
+    "zh": "v1.2 GLSL 体积渲染。能够查看NIfTI、DICOM、MGH、MHD、NRRD、AFNI格式图像。",
+    "en": "v1.2 GLSL volume rendering. Able to view NIfTI, DICOM, MGH, MHD, NRRD, AFNI format images."
+  },
+  "hxhb/HotPatcher": {
+    "zh": "虚幻引擎热更新管理和打包插件。",
+    "en": "Unreal Engine hot update manage and package plugin."
+  },
+  "ash3D/UEVideoRecorder": {
+    "zh": "虚幻引擎 4 的视频录制和屏幕截图插件。",
+    "en": "Video record and screenshot taking plugin for Unreal Engine 4."
+  },
+  "MWadstein/wtf-hdi-files": {
+    "zh": "WTF 和 HDI 项目文件",
+    "en": "WTF and HDI Project Files"
+  },
+  "MWadstein/UMG-ResizableWidget": {
+    "zh": "用于虚幻引擎 4 的 UMG 可调整大小的小部件",
+    "en": "Resizable Widget for UMG for Unreal Engine 4"
+  },
+  "DominikPeacock/ue4-new-module-tool": {
+    "zh": "该插件添加了带有“新建 C++ 模块”按钮的扩展文件菜单",
+    "en": "This plug-in adds extends the file menu with a New C++ Module button"
+  },
+  "wongfei/ue4-mediapipe-plugin": {
+    "zh": "UE4 MediaPipe 插件",
+    "en": "UE4 MediaPipe plugin"
+  },
+  "inveta/peer-stream": {
+    "zh": "用于虚幻引擎 PixelStreaming 的轻量级 WebRTC SDK",
+    "en": "Lightweight WebRTC SDK  for UnrealEngine's PixelStreaming"
+  },
+  "yangjs6/MagicPolaris": {
+    "zh": "MagicPolaris 是一个用于 3D 地图图形渲染的 UE4 插件",
+    "en": "MagicPolaris is an UE4-plugin for 3d-map graphics rendering"
+  },
+  "TimmHess/UnrealImageCapture": {
+    "zh": "一个小型教程存储库，用于将带有语义注释的图像从虚幻引擎捕获到磁盘。",
+    "en": "A small tutorial repository on capturing images with semantic annotation from UnrealEngine to disk."
+  },
+  "iwer/GeotiffLandscape": {
+    "zh": "支持 geotiff 作为横向文件格式的虚幻引擎插件。",
+    "en": "Unreal Engine Plugin to support geotiff as landscape file format."
+  },
+  "iwer/GeoReference": {
+    "zh": "虚幻引擎插件提供地理坐标和游戏坐标之间的空间参考。",
+    "en": "Unreal Engine Plugin to provide a spatial reference between geo-coordinates and game-coordinates."
+  },
+  "zompi2/UE4EnhancedCodeFlow": {
+    "zh": "这个虚幻引擎的代码插件提供了在 C++ 中实现游戏流程期间显着提高生活质量的功能。",
+    "en": "This code plugin for Unreal Engine provides functions that drastically improve the quality of life during the implementation of game flow in C++."
+  },
+  "Amirans/StrategyGameCamera": {
+    "zh": "这是一个策略相机运动模板，具有相机缩放和边缘滚动等功能。该模板提供 C++ 和蓝图版本。",
+    "en": "This is a Strategy Camera Movement template with features such as Camera Zoom and Edge Scrolling. The template is available in C++ and Blueprint."
+  },
+  "getnamo/GlobalEventSystem-Unreal": {
+    "zh": "虚幻引擎的松散耦合内部事件系统插件。",
+    "en": "Loosely coupled internal event system plugin for the Unreal Engine."
+  },
+  "Esri/cityengine_for_unreal": {
+    "zh": "ArcGIS CityEngine for Unreal Engine 为 Unreal Engine 带来了强大的 CityEngine 程序建模功能。",
+    "en": "ArcGIS CityEngine for Unreal Engine brings the powerful CityEngine procedural modeling capabilities to Unreal Engine."
+  },
+  "recogni/ue4-orchestrator": {
+    "zh": "一个带有嵌入式 HTTP 服务器的虚幻引擎插件，可以执行您的命令。",
+    "en": "An unreal engine plugin with an embedded HTTP server to do your bidding."
+  },
+  "bneukom/UnrealLandscape": {
+    "zh": "使用土地覆盖图和数字高程模型进行 UE4 景观合成。",
+    "en": "Landscape synthesis for UE4 using landcover maps and digital elevation models."
+  },
+  "Allar/ue4-mp-downloader": {
+    "zh": "用于从 UE4 市场下载拥有的资产的 Shell 实用程序。",
+    "en": "Shell utility to download owned assets from the UE4 marketplace."
+  },
+  "ivanfratric/polypartition": {
+    "zh": "微小的多边形划分和三角测量库",
+    "en": "Tiny Polygon Partitioning and Triangulation Library"
+  },
+  "dunenkoff/UE4NN": {
+    "zh": "基于UE4的蓝图的遗传算法神经网络",
+    "en": "Genetic algorithms neural network based on UE4's blueprints"
+  },
+  "jayanam/jbake-tools": {
+    "zh": "使用 Blender 简化从高多边形到低多边形的烘焙工作流程的插件",
+    "en": "Addon to simplify the baking workflow from highpoly to lowpoly with Blender"
+  },
+  "jeromeetienne/threex.coloradjust": {
+    "zh": "Three.js 扩展提供基于 3D 纹理的颜色调整。",
+    "en": "three.js extension which provides an color adjustement based on a 3d texture."
+  },
+  "jeromeetienne/threex.dynamictexture": {
+    "zh": "Three.js 帮助程序处理动态生成的纹理。",
+    "en": "three.js helper to handle dynamically generated texture."
+  },
+  "windfish-studio/three-map-controls": {
+    "zh": "ThreeJS 的地图控件类（相对于 THREE.Plane 或 Sphere 进行平移和缩放）",
+    "en": "Map controls class for threeJS (pan and zoom with respect to a THREE.Plane or Sphere)"
+  },
+  "ue4plugins/UEGeoCoordinates": {
+    "zh": "为用户提供在不同地理坐标参考系中表达坐标的工具",
+    "en": "Provide tools for users to express Coordinates in different Geographic Coordinates Reference Systems"
+  },
+  "tommybazar/TBRaymarchProject": {
+    "zh": "允许使用虚幻引擎对 3D 数据进行体积渲染。",
+    "en": "Allows volumetric rendering of 3D data with Unreal Engine."
+  },
+  "cdhigh/Vb6Tkinter": {
+    "zh": "An add-in for VB6 designed for Tkinter (直接使用VB6设计Tkinter GUI界面)",
+    "en": "An add-in for VB6 designed for Tkinter (directly use VB6 to design the Tkinter GUI interface)"
+  },
+  "marshal-it/BatchLODTool": {
+    "zh": "可以使用自定义 lodsetting 值来批量添加和更改静态网格体的 LOD 级别。",
+    "en": "can use custom lodsetting value to batch to add and change staticmesh's LOD level."
+  },
+  "robinwood3d/UnrealTransformGizmo": {
+    "zh": "Unreal Engine 交互式Transform工具",
+    "en": "Unreal Engine interactive Transform tool"
+  },
+  "heremaps/harp.gl": {
+    "zh": "使用 Three.js 用 TypeScript 编写的 3D Web 地图渲染引擎",
+    "en": "3D web map rendering engine written in TypeScript using three.js"
+  },
+  "hanmag/earth-camera-controls": {
+    "zh": "Three.js 的地球相机控制",
+    "en": "Earth camera control for three.js"
+  },
+  "vinits5/PointNetLK": {
+    "zh": "这是带有预训练模型的 PointNetLK 的干净实现。 （3D点云配准网络）",
+    "en": "This is the clean implementation of PointNetLK with pretrained models. (A 3D point cloud registration network)"
+  },
+  "opensourceBIM/WebGL-threeJS": {
+    "zh": "BIMserver.org 的 WebGL 查看器；基于ThreeJS",
+    "en": "WebGL viewer for BIMserver.org; based on ThreeJS"
+  },
+  "Henryhaohao/Bilibili_video_download": {
+    "zh": ":rainbow:Bilibili_video_download-B站视频下载",
+    "en": ":rainbow:Bilibili_video_download-Bilibili video download"
+  },
+  "omni360/ThreeJS-Notes": {
+    "zh": "ThreeJS的中文注释，可以自动生成文档",
+    "en": "ThreeJS Chinese comments can automatically generate documents"
+  },
+  "hxhb/UE4_API_FOR_DASH": {
+    "zh": "Dash 的 UE4 文档源",
+    "en": "UE4 document source for Dash"
+  },
+  "brandonxiang/pyMap": {
+    "zh": "栅格地图下载助手",
+    "en": "Raster Map Download Helper"
+  },
+  "fanvanzh/3dtiles": {
+    "zh": "世界上最快的 3dtiles 转换工具！",
+    "en": "The fastest tools for 3dtiles convert in the world!"
+  },
+  "JasonJe/offline-tileServer": {
+    "zh": "离线瓦片地图。1、多进程",
+    "en": "多线程/异步爬取瓦片地图；2、Flask + Leaflet 构建离线地图服务。"
+  },
+  "visgl/deck.gl": {
+    "zh": "WebGL2 支持的可视化框架",
+    "en": "WebGL2 powered visualization framework"
+  },
+  "w3reality/three-geo": {
+    "zh": "3D地理可视化库",
+    "en": "3D geographic visualization library"
+  },
+  "ChampionLi/ActiveMQ": {
+    "zh": "建立Apache ActiveMQ并编写HelloWorld",
+    "en": "Establish Apache ActiveMQ and Write a HelloWorld"
+  },
+  "GeodesicGames/SimpleOffAxisProjection": {
+    "zh": "用于修改 UE4 中本地玩家投影的简单插件",
+    "en": "Simple plugin for modifying local player projection in UE4"
+  },
+  "wjakob/instant-meshes": {
+    "zh": "交互式场对齐网格生成器",
+    "en": "Interactive field-aligned mesh generator"
+  },
+  "zalmoxes-laran/3D-survey-collection": {
+    "zh": "3D Survey Collection - 即将推出 3DSC，Blender 5.x 的插件",
+    "en": "3D Survey Collection - shortly 3DSC, an addon for Blender 5.x"
+  },
+  "fatedier/frp": {
+    "zh": "快速反向代理可帮助您将 NAT 或防火墙后面的本地服务器暴露给互联网。",
+    "en": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+  },
+  "alicevision/Meshroom": {
+    "zh": "基于节点的可视化编程工具箱",
+    "en": "Node-based Visual Programming Toolbox"
+  },
+  "adamrehn/ue4-opencv-demo": {
+    "zh": "使用 conan-ue4cli 集成 OpenCV 和 UE4 的演示",
+    "en": "Demo for integrating OpenCV and UE4 using conan-ue4cli"
+  },
+  "adynathos/AugmentedUnreality": {
+    "zh": "虚幻引擎 4 的增强现实",
+    "en": "Augmented reality for Unreal Engine 4"
+  },
+  "huihut/OpenCV-MinGW-Build": {
+    "zh": "👀 在 Windows 上编译的 OpenCV MinGW 32 位和 64 位版本。包括OpenCV 3.3.1、3.4.1、3.4.1-x64、3.4.5、3.4.6、3.4.7、3.4.8-x64、3.4.9、4.0.0-alpha-x64、4.0.0-rc-x64、4.0.1-x64、4.1.0、 4.1.0-x64、4.1.1-x64、4.5.0-with-contrib、4.5.2-x64",
+    "en": "👀 MinGW 32bit and 64bit version of OpenCV compiled on Windows. Including OpenCV 3.3.1, 3.4.1, 3.4.1-x64, 3.4.5, 3.4.6, 3.4.7, 3.4.8-x64, 3.4.9, 4.0.0-alpha-x64, 4.0.0-rc-x64, 4.0.1-x64, 4.1.0, 4.1.0-x64, 4.1.1-x64, 4.5.0-with-contrib, 4.5.2-x64"
+  },
+  "tentone/nunuStudio": {
+    "zh": "Web 驱动的跨平台 3D、WebXR 游戏引擎。",
+    "en": "Web powered cross-platform 3D, WebXR game engine."
+  },
+  "shadowmint/ue4-static-plugin": {
+    "zh": "虚幻引擎的示例静态插件，导入 C++ 和 Rust 库并静态链接它们。",
+    "en": "A sample static plugin for the unreal engine that imports a C++ and rust library and links them statically."
+  },
+  "Moddingear/RMC-4.21-Example": {
+    "zh": "RMC 的网格生成、碰撞和一般设置示例",
+    "en": "An example of mesh generation, collision and general setup of the RMC"
+  },
+  "vvoovv/blosm": {
+    "zh": "Blender 的 Blossom 插件。只需点击几下即可导入 Google 3D 城市、OpenStreetMap、地形。全球覆盖。源代码位于“release”分支中。",
+    "en": "Blosm addon for Blender. A few clicks import of Google 3D cities, OpenStreetMap, terrain. Global coverage. Source code is in the branch 'release'."
+  },
+  "chro008/gaode_poi": {
+    "zh": "爬取高德地图poi数据",
+    "en": "Crawl Amap POI data"
+  },
+  "kenneth663/gaode_spider": {
+    "zh": "高德poi爬虫(elasticsearch mongodb)",
+    "en": "Amap poi crawler (elasticsearch mongodb)"
+  },
+  "DamirPorobic/UE4_Minimap": {
+    "zh": "虚幻引擎 4 中的小地图基于图像和纹理而不是 SceneCapture2D",
+    "en": "Minimap in Unreal Engine 4 based on images and textures instead of SceneCapture2D"
+  },
+  "DamirPorobic/UE4_Custom-UMG-Layout": {
+    "zh": "虚幻引擎 4 小部件，可以放置在其他小部件中，以在运行时提供可自定义的布局",
+    "en": "Unreal Engine 4 Widget that can be placed within other widgets to provide customizable layout during runtime"
+  },
+  "getnamo/TensorFlow-Unreal": {
+    "zh": "用于虚幻引擎的 TensorFlow 插件。",
+    "en": "TensorFlow plugin for the Unreal Engine."
+  },
+  "getnamo/TensorFlow-Unreal-Examples": {
+    "zh": "拖放虚幻引擎 TensorFlow 示例存储库。",
+    "en": "Drag and drop Unreal Engine TensorFlow examples repository."
+  },
+  "getnamo/SocketIOClient-Unreal": {
+    "zh": "虚幻引擎的 Socket.IO 客户端插件。",
+    "en": "Socket.IO client plugin for the Unreal Engine."
+  },
+  "goncasmage1/UINavigation": {
+    "zh": "UE4/5 插件，旨在帮助轻松制作通过鼠标、键盘和游戏手柄导航的 UMG 菜单",
+    "en": "A UE4/5 plugin designed to help easily make UMG menus navigated by mouse, keyboard and gamepad"
+  },
+  "RPG3D/FileDownload-UE4": {
+    "zh": "虚幻引擎 4 的基于 http 的文件下载插件",
+    "en": "A http based file download plugin for Unreal Engine 4"
+  },
+  "Allar/ue5-style-guide": {
+    "zh": "尝试使虚幻引擎 4 项目更加一致",
+    "en": "An attempt to make Unreal Engine 4 projects more consistent"
+  },
+  "Brandon-Wilson/OpenCV-Plugin": {
+    "zh": "一个简单的 OpenCV 插件，将 OpenCV 库集成到 UE4 中。该插件包含一些蓝图类，演示 OpenCV 如何与引擎交互。",
+    "en": "A simple OpenCV plugin that integrates the OpenCV library into UE4. The plugin includes some blueprint classes that demonstrate how OpenCV can interact with the engine."
+  },
+  "iTowns/itowns": {
+    "zh": "用 Javascript/WebGL 编写的基于 Three.js 的框架，用于可视化 3D 地理空间数据",
+    "en": "A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data"
+  },
+  "juddc/UE4RoadTools": {
+    "zh": "用于为虚幻引擎 4 创建和编辑道路和路径的工具",
+    "en": "Tools for creating and editing roads and paths for Unreal Engine 4"
+  },
+  "pdlogingithub/UE4-Node-Graph-Assistant": {
+    "zh": "一个插件，可帮助您在虚幻引擎 4 中更快、更轻松地创建节点图。",
+    "en": "A plugin to help you to create node graph faster and easier in unreal engine 4."
+  },
+  "tengge1/ShadowEditor": {
+    "zh": "基于 Three.js、golang 和 mongodb 的跨平台 3D 场景编辑器，适用于桌面和 Web。 https://tengge1.github.io/ShadowEditor-examples/",
+    "en": "Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/"
+  },
+  "iSpring/WebGlobe": {
+    "zh": "基于HTML5原生WebGL实现的轻量级Google Earth三维地图引擎",
+    "en": "A lightweight Google Earth 3D map engine based on HTML5 native WebGL"
+  },
+  "spite/ShaderEditorExtension": {
+    "zh": "Google Chrome DevTools 扩展可实时编辑 WebGL GLSL 着色器",
+    "en": "Google Chrome DevTools extension to live edit WebGL GLSL shaders"
+  },
+  "EverNewJoy/VictoryPlugin": {
+    "zh": "罗摩的胜利 BP 插件",
+    "en": "Rama's Victory BP Plugin"
+  },
+  "joeriedel/RadiantUI": {
+    "zh": "基于 CEF 的 Web 浏览器集成到虚幻引擎 4 中",
+    "en": "CEF Based Web Browser Integration into Unreal Engine 4"
+  },
+  "XuanchenLin/NanUI": {
+    "zh": "NanUI 是一个开源 .NET 项目，适合想要使用 HTML、CSS 和 JavaScript 创建 Windows 桌面应用程序的开发人员。",
+    "en": "NanUI is an open source .NET project for developers who want to create Windows desktop applications with HTML, CSS and JavaScript."
+  },
+  "domlysz/BlenderGIS": {
+    "zh": "Blender 插件在 Blender 和地理数据之间架起桥梁",
+    "en": "Blender addons to make the bridge between Blender and geographic data"
+  },
+  "domlysz/Blender-Addons": {
+    "zh": "Blender 的各种插件",
+    "en": "Various addons for Blender"
+  },
+  "alainlhostis/shriveling_world": {
+    "zh": "“shriveling_world”项目旨在利用三维（如时空地形图）生成全球地理时空图像。 “枯萎”一词是 Waldo Tobler 在评论 Mathis-L'Hostis 时空浮雕图像时引入的，旨在描述模型所暗示的复杂收缩过程。",
+    "en": "The \"shriveling_world\" project aims at producing images of the global geographical time-space, using the third dimension, as in time-space relief maps. The word \"shriveling\" was introduced by Waldo Tobler in his comments of Mathis-L'Hostis time-space relief image, in order to describe the complex contraction process suggested by the model."
+  },
+  "ue4plugins/StreetMap": {
+    "zh": "将 OpenStreetMap 数据导入虚幻引擎",
+    "en": "Import OpenStreetMap data into Unreal Engine"
+  },
+  "ValentinKraft/UE4_GPUPointCloudRenderer": {
+    "zh": "适用于 Unreal 的 GPU 驱动的点云渲染器。",
+    "en": "A GPU-powered Point Cloud Renderer for Unreal."
+  },
+  "getnamo/BLUI-Unreal": {
+    "zh": "用于虚幻引擎的基于 CEF 的 HTML UI。",
+    "en": "CEF based HTML UI for the Unreal Engine."
+  },
+  "getlantern/download": {
+    "zh": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw",
+    "en": "Lantern official version download blue light circumvention proxy scientific Internet access external network accelerator ladder routing proxy vpn circumvention gfw"
+  },
+  "Kavex/GlueIT": {
+    "zh": ":art: 简单的 SpriteSheet 工具",
+    "en": ":art: Simple SpriteSheet Tool"
+  }
+}
